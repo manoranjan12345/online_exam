@@ -1,0 +1,30 @@
+.bg{
+	background-color:green;
+}
+
+.custom-bg {
+	background:blue;
+}
+
+.custom-ground{
+	background:blue;
+	height: 55px;
+}
+
+.start_btn {
+	position: static;
+}
+
+.form-E1 {
+	width: 25px;
+	border: 2px solid blue;
+}
+
+.form-E2 {
+	width: 1200px;
+	border: 2px solid blue;
+}
+
+.container{
+	margin-bottom: 15px;
+}
